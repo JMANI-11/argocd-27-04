@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: jmanishankar/nginxbirth:latest  
+        image: nginx  
         ports:
         - containerPort: 80
